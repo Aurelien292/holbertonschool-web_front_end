@@ -3,5 +3,5 @@
   Cela permettra une transition fluide lorsque l'on navigue entre les sections ou qu'on utilise des liens d'ancrage.
 */
 html {
-	scroll-behavior: smooth;
+	scroll-behavior: smooth;/* Active le défilement fluide */
 }
