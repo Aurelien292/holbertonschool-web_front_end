@@ -1,7 +1,0 @@
-/* 
-  Tâche : Implémenter un défilement fluide pour l'ensemble de la page. ↩
-  Cela permettra une transition fluide lorsque l'on navigue entre les sections ou qu'on utilise des liens d'ancrage.↩
-*/
-html {
-  scroll-behavior: smooth;
-}
