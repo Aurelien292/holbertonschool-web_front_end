@@ -540,6 +540,9 @@ a:active {
 .social-link > svg{
     fill: var(--text-color);
 }
+.card-services .card-title {
+  margin: 0;
+}
 .card-services a {
     display: block;
     padding: 2rem;
